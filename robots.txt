@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://b1otme.github.io/sitemap.xml
