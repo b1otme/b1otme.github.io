@@ -3,13 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
-  
-    
       <url>
             <loc>https://b1otme.github.io/</loc>
+            <lastmod>2023-02-08T16:04:52-06:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://b1otme.github.io/machines/</loc>
+            <lastmod>2023-02-08T16:04:52-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://b1otme.github.io/machines/opencouch/</loc>
+            <lastmod>2023-02-08T15:30:03-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://b1otme.github.io/posts/</loc>
+            <lastmod>2023-02-08T14:54:36-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://b1otme.github.io/posts/someinfo/</loc>
+            <lastmod>2023-02-08T14:54:36-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://b1otme.github.io/posts/intro/</loc>
+            <lastmod>2023-02-08T13:53:09-06:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
     
   
     
