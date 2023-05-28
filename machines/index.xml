@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machines on B1otme</title>
+    <title>Machines on Tris</title>
     <link>https://b1otme.github.io/machines/</link>
-    <description>Recent content in Machines on B1otme</description>
+    <description>Recent content in Machines on Tris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 08 Feb 2023 16:04:52 -0600</lastBuildDate><atom:link href="https://b1otme.github.io/machines/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opencouch</title>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on B1otme</title>
+    <title>Posts on Tris</title>
     <link>https://b1otme.github.io/posts/</link>
-    <description>Recent content in Posts on B1otme</description>
+    <description>Recent content in Posts on Tris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 08 Feb 2023 14:54:36 -0600</lastBuildDate><atom:link href="https://b1otme.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Someinfo</title>
@@ -22,7 +22,7 @@
       <pubDate>Wed, 08 Feb 2023 13:53:09 -0600</pubDate>
       
       <guid>https://b1otme.github.io/posts/intro/</guid>
-      <description>Presentación&gt;Presentación # Hola, esta pagina sera para subir mis proyectos, lo que vaya aprendiendo y alguna que otra cosa extra.</description>
+      <description>Presentación # Hola, esta pagina sera para subir mis proyectos, lo que vaya aprendiendo y alguna que otra cosa extra.</description>
     </item>
     
   </channel>
