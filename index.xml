@@ -14,17 +14,17 @@
       
       <guid>https://b1otme.github.io/datos/grafos/</guid>
       <description>¿Qué son los Grafos?</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1otme.github.io/datos/grafos/featured.png" />
     </item>
     
     <item>
       <title>Arboles</title>
-      <link>https://b1otme.github.io/datos/arboles/</link>
+      <link>https://b1otme.github.io/datos/arbol/</link>
       <pubDate>Fri, 26 May 2023 14:08:04 -0600</pubDate>
       
-      <guid>https://b1otme.github.io/datos/arboles/</guid>
+      <guid>https://b1otme.github.io/datos/arbol/</guid>
       <description>¿Qué son los Arboles?</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1otme.github.io/datos/arbol/featured.png" />
     </item>
     
     <item>
@@ -34,7 +34,7 @@
       
       <guid>https://b1otme.github.io/datos/listas/</guid>
       <description>¿Qué son las listas?</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1otme.github.io/datos/listas/featured.png" />
     </item>
     
     <item>
@@ -44,7 +44,7 @@
       
       <guid>https://b1otme.github.io/datos/colas/</guid>
       <description>¿Qué son las colas?</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://b1otme.github.io/datos/colas/featured.png" />
     </item>
     
     <item>
